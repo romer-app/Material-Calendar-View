@@ -39,7 +39,7 @@
             android:layout_height="56dp"
             android:gravity="center"
             android:textColor="@android:color/white"
-            android:textSize="18sp"
+            android:textSize="14sp"
             app:layout_constraintLeft_toRightOf="@id/previousButton"
             app:layout_constraintRight_toLeftOf="@id/forwardButton"
             app:layout_constraintTop_toTopOf="parent" />
